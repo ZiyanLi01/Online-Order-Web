@@ -40,19 +40,19 @@ export const getMenus = (restId) => {
   });
 };
 
-/* 
-  
-  
+/*
+   
+   
       What's the difference between JSON and JS Object?
       JSON - string, but it has the format of a obj i.e. {key: value}
       - key: must be double quoted
-  
-  
+   
+   
       JS Object - Object {key: value}
       - key: double quoted?
-  
-  
-  */
+   
+   
+   */
 
 export const getRestaurants = () => {
   return fetch("/restaurants/menu").then((response) => {
