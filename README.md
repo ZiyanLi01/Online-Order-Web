@@ -2,7 +2,7 @@
 Yumi Food is my first full-stack project, passionately developed from the ground up. This project simulates a simple DoorDash-like service as a practice exercise, focusing on food ordering and delivery.
 
 ## Project Demo
-https://github.com/ZiyanLi01/StayBooking_Project/assets/86816068/58c8b844-13ae-4db4-85d0-af34dc39d743
+https://github.com/user-attachments/assets/22b4a759-e51d-45cc-9535-2299fe1b24d7
 
 ## Table of Contents
 - [Introduction](#introduction)
